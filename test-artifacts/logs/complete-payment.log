@@ -1,0 +1,253 @@
+[2025-05-12T07:05:46.318Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:05:47.994Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:05:48.199Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:05:48.237Z] [complete-payment] Test failed with error: page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'a:has-text("Laptops")' is not a valid selector.
+    at eval (eval at evaluate (:313:29), <anonymous>:2:30)
+    at UtilityScript.evaluate (<anonymous>:315:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2025-05-12T07:10:34.381Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:10:35.512Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:10:35.694Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:10:35.724Z] [complete-payment] Test failed with error: page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'a:has-text("Laptops")' is not a valid selector.
+    at eval (eval at evaluate (:313:29), <anonymous>:2:30)
+    at UtilityScript.evaluate (<anonymous>:315:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2025-05-12T07:12:10.837Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:12:13.062Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:12:13.221Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:12:13.251Z] [complete-payment] Test failed with error: page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'a:has-text("Laptops")' is not a valid selector.
+    at eval (eval at evaluate (:313:29), <anonymous>:2:30)
+    at UtilityScript.evaluate (<anonymous>:315:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2025-05-12T07:13:49.899Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:13:51.625Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:13:51.784Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:13:53.091Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:13:55.468Z] [complete-payment] Adding product to cart
+[2025-05-12T07:13:57.184Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:13:58.591Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:14:01.973Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:14:01.973Z] [complete-payment] Placing order
+[2025-05-12T07:14:03.380Z] [complete-payment] Filling payment information
+[2025-05-12T07:14:03.682Z] [complete-payment] Submitting purchase
+[2025-05-12T07:14:06.792Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:14:08.906Z] [complete-payment] Entering OTP code
+[2025-05-12T07:14:08.907Z] [complete-payment] Test failed with error: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.
+[2025-05-12T07:15:31.409Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:15:32.850Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:15:33.115Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:15:34.572Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:15:37.072Z] [complete-payment] Adding product to cart
+[2025-05-12T07:15:38.824Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:15:40.243Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:15:43.761Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:15:43.761Z] [complete-payment] Placing order
+[2025-05-12T07:15:45.228Z] [complete-payment] Filling payment information
+[2025-05-12T07:15:45.602Z] [complete-payment] Submitting purchase
+[2025-05-12T07:15:48.749Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:15:50.937Z] [complete-payment] Entering OTP code
+[2025-05-12T07:15:50.939Z] [complete-payment] Test failed with error: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.
+[2025-05-12T07:18:34.364Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:18:36.199Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:18:36.449Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:18:37.240Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:18:38.034Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:18:38.950Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:18:39.257Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:18:40.702Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:18:41.093Z] [complete-payment] Adding product to cart
+[2025-05-12T07:18:42.953Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:18:43.806Z] [complete-payment] Adding product to cart
+[2025-05-12T07:18:44.239Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:18:45.594Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:18:46.945Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:18:48.787Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:18:48.789Z] [complete-payment] Placing order
+[2025-05-12T07:18:50.284Z] [complete-payment] Filling payment information
+[2025-05-12T07:18:50.621Z] [complete-payment] Submitting purchase
+[2025-05-12T07:18:52.053Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:18:52.053Z] [complete-payment] Placing order
+[2025-05-12T07:18:53.575Z] [complete-payment] Filling payment information
+[2025-05-12T07:18:53.774Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:18:53.968Z] [complete-payment] Submitting purchase
+[2025-05-12T07:18:55.973Z] [complete-payment] Entering OTP code
+[2025-05-12T07:18:55.974Z] [complete-payment] Test failed with error: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.
+[2025-05-12T07:18:57.131Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:18:59.309Z] [complete-payment] Entering OTP code
+[2025-05-12T07:18:59.310Z] [complete-payment] Test failed with error: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.
+[2025-05-12T07:22:22.678Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:22:24.390Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:22:24.562Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:22:25.906Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:22:28.819Z] [complete-payment] Adding product to cart
+[2025-05-12T07:22:30.555Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:22:31.922Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:22:35.854Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:22:35.855Z] [complete-payment] Placing order
+[2025-05-12T07:22:37.296Z] [complete-payment] Filling payment information
+[2025-05-12T07:22:37.613Z] [complete-payment] Submitting purchase
+[2025-05-12T07:22:40.732Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:22:42.869Z] [complete-payment] Entering OTP code
+[2025-05-12T07:22:47.118Z] [complete-payment] Verifying OTP
+[2025-05-12T07:22:48.194Z] [complete-payment] Displaying payment success screen
+[2025-05-12T07:22:51.328Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T07:23:06.357Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:23:08.320Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:23:08.504Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:23:09.814Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:23:12.723Z] [complete-payment] Adding product to cart
+[2025-05-12T07:23:14.485Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:23:15.841Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:23:20.364Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:23:20.364Z] [complete-payment] Placing order
+[2025-05-12T07:23:21.813Z] [complete-payment] Filling payment information
+[2025-05-12T07:23:22.134Z] [complete-payment] Submitting purchase
+[2025-05-12T07:23:25.264Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:23:27.378Z] [complete-payment] Entering OTP code
+[2025-05-12T07:23:31.605Z] [complete-payment] Verifying OTP
+[2025-05-12T07:23:32.684Z] [complete-payment] Displaying payment success screen
+[2025-05-12T07:23:35.809Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T07:24:20.251Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:24:21.786Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:24:21.961Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:24:23.324Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:24:26.192Z] [complete-payment] Adding product to cart
+[2025-05-12T07:24:27.951Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:24:29.297Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:24:33.267Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:24:33.267Z] [complete-payment] Placing order
+[2025-05-12T07:24:34.728Z] [complete-payment] Filling payment information
+[2025-05-12T07:24:35.110Z] [complete-payment] Submitting purchase
+[2025-05-12T07:24:38.235Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:24:40.359Z] [complete-payment] Entering OTP code
+[2025-05-12T07:24:44.564Z] [complete-payment] Verifying OTP
+[2025-05-12T07:24:45.644Z] [complete-payment] Displaying payment success screen
+[2025-05-12T07:24:48.763Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T07:29:45.076Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:29:46.681Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:29:46.862Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:29:48.179Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:29:50.543Z] [complete-payment] Adding product to cart
+[2025-05-12T07:29:52.214Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:29:53.647Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:29:57.027Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:29:57.027Z] [complete-payment] Placing order
+[2025-05-12T07:29:58.435Z] [complete-payment] Filling payment information
+[2025-05-12T07:29:58.740Z] [complete-payment] Submitting purchase
+[2025-05-12T07:30:01.859Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:30:04.011Z] [complete-payment] Entering OTP code
+[2025-05-12T07:30:08.262Z] [complete-payment] Verifying OTP
+[2025-05-12T07:30:09.345Z] [complete-payment] Displaying payment success screen
+[2025-05-12T07:30:12.487Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T07:58:37.422Z] [complete-payment] Starting payment journey automation
+[2025-05-12T07:58:39.461Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T07:58:39.633Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T07:58:40.988Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T07:58:43.938Z] [complete-payment] Adding product to cart
+[2025-05-12T07:58:45.739Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T07:58:47.045Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T07:58:50.987Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T07:58:50.987Z] [complete-payment] Placing order
+[2025-05-12T07:58:52.436Z] [complete-payment] Filling payment information
+[2025-05-12T07:58:52.736Z] [complete-payment] Submitting purchase
+[2025-05-12T07:58:55.877Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T07:58:57.994Z] [complete-payment] Entering OTP code
+[2025-05-12T07:59:02.232Z] [complete-payment] Verifying OTP
+[2025-05-12T07:59:03.320Z] [complete-payment] Displaying payment success screen
+[2025-05-12T07:59:06.468Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:08:00.536Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:08:02.397Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:08:02.672Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:08:04.180Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:08:06.725Z] [complete-payment] Adding product to cart
+[2025-05-12T09:08:08.513Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:08:09.896Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:08:13.903Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:08:13.904Z] [complete-payment] Placing order
+[2025-05-12T09:08:15.432Z] [complete-payment] Filling payment information
+[2025-05-12T09:08:15.778Z] [complete-payment] Submitting purchase
+[2025-05-12T09:08:18.934Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:08:21.118Z] [complete-payment] Entering OTP code
+[2025-05-12T09:08:25.443Z] [complete-payment] Verifying OTP
+[2025-05-12T09:08:26.594Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:08:29.793Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:15:07.643Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:15:08.967Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:15:09.269Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:15:10.779Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:15:13.823Z] [complete-payment] Adding product to cart
+[2025-05-12T09:15:15.621Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:15:17.008Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:15:21.014Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:15:21.015Z] [complete-payment] Placing order
+[2025-05-12T09:15:22.531Z] [complete-payment] Filling payment information
+[2025-05-12T09:15:22.854Z] [complete-payment] Submitting purchase
+[2025-05-12T09:15:26.009Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:15:28.219Z] [complete-payment] Entering OTP code
+[2025-05-12T09:15:32.528Z] [complete-payment] Verifying OTP
+[2025-05-12T09:15:33.627Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:15:36.879Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:20:13.831Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:20:15.387Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:20:15.567Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:20:16.912Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:20:19.999Z] [complete-payment] Adding product to cart
+[2025-05-12T09:20:21.791Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:20:23.136Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:20:28.250Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:20:28.250Z] [complete-payment] Placing order
+[2025-05-12T09:20:29.736Z] [complete-payment] Filling payment information
+[2025-05-12T09:20:29.980Z] [complete-payment] Submitting purchase
+[2025-05-12T09:20:33.125Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:20:35.237Z] [complete-payment] Entering OTP code
+[2025-05-12T09:20:39.486Z] [complete-payment] Verifying OTP
+[2025-05-12T09:20:40.569Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:20:43.727Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:22:50.036Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:22:52.142Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:22:52.395Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:22:53.846Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:22:56.895Z] [complete-payment] Adding product to cart
+[2025-05-12T09:22:58.776Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:23:00.053Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:23:05.178Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:23:05.178Z] [complete-payment] Placing order
+[2025-05-12T09:23:06.712Z] [complete-payment] Filling payment information
+[2025-05-12T09:23:07.032Z] [complete-payment] Submitting purchase
+[2025-05-12T09:23:10.195Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:23:12.400Z] [complete-payment] Entering OTP code
+[2025-05-12T09:23:16.730Z] [complete-payment] Verifying OTP
+[2025-05-12T09:23:17.852Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:23:21.048Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:25:06.015Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:25:07.776Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:25:08.047Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:25:09.501Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:25:12.532Z] [complete-payment] Adding product to cart
+[2025-05-12T09:25:14.766Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:25:15.682Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:25:20.378Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:25:20.378Z] [complete-payment] Placing order
+[2025-05-12T09:25:21.866Z] [complete-payment] Filling payment information
+[2025-05-12T09:25:22.209Z] [complete-payment] Submitting purchase
+[2025-05-12T09:25:25.383Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:25:27.583Z] [complete-payment] Entering OTP code
+[2025-05-12T09:25:31.890Z] [complete-payment] Verifying OTP
+[2025-05-12T09:25:33.017Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:25:36.221Z] [complete-payment] Payment journey completed successfully
+[2025-05-12T09:28:29.239Z] [complete-payment] Starting payment journey automation
+[2025-05-12T09:28:30.651Z] [complete-payment] Successfully loaded demo site
+[2025-05-12T09:28:30.954Z] [complete-payment] Navigating to Laptops category
+[2025-05-12T09:28:32.526Z] [complete-payment] Selecting Sony vaio i5 laptop
+[2025-05-12T09:28:35.132Z] [complete-payment] Adding product to cart
+[2025-05-12T09:28:36.911Z] [complete-payment] Dialog appeared: Product added
+[2025-05-12T09:28:38.325Z] [complete-payment] Navigating to shopping cart
+[2025-05-12T09:28:42.463Z] [complete-payment] Product in cart: Sony vaio i5
+[2025-05-12T09:28:42.463Z] [complete-payment] Placing order
+[2025-05-12T09:28:44.132Z] [complete-payment] Filling payment information
+[2025-05-12T09:28:44.640Z] [complete-payment] Submitting purchase
+[2025-05-12T09:28:47.855Z] [complete-payment] Displaying OTP verification screen
+[2025-05-12T09:28:50.039Z] [complete-payment] Entering OTP code
+[2025-05-12T09:28:54.370Z] [complete-payment] Verifying OTP
+[2025-05-12T09:28:55.543Z] [complete-payment] Displaying payment success screen
+[2025-05-12T09:28:58.799Z] [complete-payment] Payment journey completed successfully

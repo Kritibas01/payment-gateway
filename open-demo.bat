@@ -1,0 +1,3 @@
+@echo off
+echo Opening Payment Automation Demo in your browser...
+start "" "standalone.html" 
