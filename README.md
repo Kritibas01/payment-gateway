@@ -130,3 +130,7 @@ If you're having trouble accessing the web interface:
 3. Try running with administrator/elevated privileges
 4. Check your firewall settings to ensure it's not blocking the connection
 5. If you're behind a corporate network, consult with your IT department 
+
+
+Video Link 
+https://drive.google.com/file/d/1LYAzvsBBLiMb-O2vsR50zeOBxBnvWGOA/view?usp=sharing
